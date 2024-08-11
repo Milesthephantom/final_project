@@ -1,1 +1,4 @@
 mkdir final_project
+cd final_project
+git clone https://github.com/your-username/oaqjp-final-project-emb-ai.git
+ls -R
